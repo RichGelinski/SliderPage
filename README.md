@@ -1,4 +1,4 @@
-# Slider-Page
+# SliderPage
  Project proposed by B7Web (course assignment)
 
 # English
